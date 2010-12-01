@@ -7,7 +7,10 @@ algoritmov umetne inteligence (za raèunalniško vodene like). Naroènik zahteva, d
 razvoja igro testirate interno (zaposleni), pred izidom pa izvedete še neodvisno, zunanje
 testiranje (prostovoljci).
 
+-----------------------------------
+
 Razvoj nove MMORPG igre za razvijalca predstavlja tako tehnièni kot tudi ustvarjalni izziv.
-Tehnièni izziv v našem primeru predstavlja razvoj dovolj moènega fiziènega in grafiènega pogona,
-da se bo igra lahko merila z ostalimi igrami podobnega tipa na tržišèu, hkrati pa mora biti
-dovolj stabilna 
+
+Da bo naša igra igralcem privlaèna in se bo hkrati lahko merila z ostalimi igri podobnega tipa
+na tržišèu, mora imeti dovolj zmogljiv grafièni pogon za vizualno privlaènost in dober fizikalni
+pogon, ki bo dejansko narekoval tempo in obnašanje celotne igre. Zelo pomemben je tudi 
