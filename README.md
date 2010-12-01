@@ -6,10 +6,12 @@ Za lazje sodelovanje:
  * naredis si github account
  * reces swizcu da te doda kot kolaboratorja
  * si instaliras git na svoj komp
+ * po teh navodilih postimas ssh kluce pa to: http://help.github.com/msysgit-key-setup/
  * gres nekam na svojem kompu in poisces url repozitorija tuki: https://github.com/Swizec/World-of-PrPr
  * git clone <url>
 
 Basics of git:
+
  * preden zacnes delat: git pull origin
  * tipkas, saris itd
  * se spomnis addat vse fajle ki so novi
