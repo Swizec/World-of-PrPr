@@ -2,11 +2,12 @@
 # Navodila
 
 Za lazje sodelovanje:
- 1. naredis si github account
- 2. zgoraj desno na tej strani kliknes fork
- 3. sledis tem navodilom: http://help.github.com/forking/
- 4. pri koraku za dodat upstream uporabis to: git://github.com/Swizec/World-of-PrPr.git
- 5. ko rata neki spisat se naklikate Pull Requesta -> https://github.com/Swizec/World-of-PrPr
+
+ * naredis si github account
+ * zgoraj desno na tej strani kliknes fork
+ * sledis tem navodilom: http://help.github.com/forking/
+ * pri koraku za dodat upstream uporabis to: git://github.com/Swizec/World-of-PrPr.git
+ * ko rata neki spisat se naklikate Pull Requesta -> https://github.com/Swizec/World-of-PrPr
 
 
 # Ideja
