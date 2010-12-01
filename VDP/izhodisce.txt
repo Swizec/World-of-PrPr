@@ -13,4 +13,7 @@ Razvoj nove MMORPG igre za razvijalca predstavlja tako tehnièni kot tudi ustvarj
 
 Da bo naša igra igralcem privlaèna in se bo hkrati lahko merila z ostalimi igri podobnega tipa
 na tržišèu, mora imeti dovolj zmogljiv grafièni pogon za vizualno privlaènost in dober fizikalni
-pogon, ki bo dejansko narekoval tempo in obnašanje celotne igre. Zelo pomemben je tudi 
+pogon, ki bo dejansko narekoval tempo, obnašanje in omejitve celotne igre. Zelo pomembna je tudi
+celotna igralna izkušnja (gameplay), ki mora biti èimbolj unikatna in zanimiva.
+
+Kot MMO bo World of PrPr zelo
