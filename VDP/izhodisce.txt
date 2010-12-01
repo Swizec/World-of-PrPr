@@ -1,1 +1,13 @@
-Naroènik si želi igro tipa MMORPG
+Naroènik se je na vas obrnil, saj ste znani kot skupina strokovnjakov za razvoj iger.
+Pripravite projekt, ki zajema naèrtovanje in izdelavo raèunalniške igre, pri kateri v
+navideznem svetu preko spleta sodeluje veliko število igralcev. Projekt zajema pripravo
+scenarija igre, oblikovanje likov in sveta, izbiro oziroma razvoj lastnega grafiènega pogona
+(»game engine«), ustrezno mrežno naèrtovanje (sinhronizacija, centralni strežniki), aplikacijo
+algoritmov umetne inteligence (za raèunalniško vodene like). Naroènik zahteva, da v vseh fazah
+razvoja igro testirate interno (zaposleni), pred izidom pa izvedete še neodvisno, zunanje
+testiranje (prostovoljci).
+
+Razvoj nove MMORPG igre za razvijalca predstavlja tako tehnièni kot tudi ustvarjalni izziv.
+Tehnièni izziv v našem primeru predstavlja razvoj dovolj moènega fiziènega in grafiènega pogona,
+da se bo igra lahko merila z ostalimi igrami podobnega tipa na tržišèu, hkrati pa mora biti
+dovolj stabilna 
