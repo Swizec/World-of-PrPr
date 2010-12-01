@@ -1,0 +1,9 @@
+KPI-ji, ki jih bomo merili, za ocenjevanje uspešnosti projekta:
+- doseganje predlagane funkcionalnosti
+- število hroščev odkritih post facto
+- porabljen čas implementacije
+- zadovoljivost tehnike igranja (gameplay)
+- uspešnost AI igralcev
+- realističnost grafičnega in fizikalnega pogona
+- skalabilnost sistema
+- fleksibilnost simulacije ekosistema
