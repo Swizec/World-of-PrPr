@@ -4,10 +4,18 @@
 Za lazje sodelovanje:
 
  * naredis si github account
- * zgoraj desno na tej strani kliknes fork
- * sledis tem navodilom: http://help.github.com/forking/
- * pri koraku za dodat upstream uporabis to: git://github.com/Swizec/World-of-PrPr.git
- * ko rata neki spisat se naklikate Pull Requesta -> https://github.com/Swizec/World-of-PrPr
+ * reces swizcu da te doda kot kolaboratorja
+ * si instaliras git na svoj komp
+ * gres nekam na svojem kompu in poisces url repozitorija tuki: https://github.com/Swizec/World-of-PrPr
+ * git clone <url>
+
+Basics of git:
+ * preden zacnes delat: git pull origin
+ * tipkas, saris itd
+ * se spomnis addat vse fajle ki so novi
+ * git commit -a -m "tvoj komentar"
+ * git push origin
+ * to je vecinoma vse kar rabis vedt
 
 
 # Ideja
