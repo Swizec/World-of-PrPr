@@ -1,19 +1,13 @@
-Naroènik se je na vas obrnil, saj ste znani kot skupina strokovnjakov za razvoj iger.
-Pripravite projekt, ki zajema naèrtovanje in izdelavo raèunalniške igre, pri kateri v
-navideznem svetu preko spleta sodeluje veliko število igralcev. Projekt zajema pripravo
-scenarija igre, oblikovanje likov in sveta, izbiro oziroma razvoj lastnega grafiènega pogona
-(»game engine«), ustrezno mrežno naèrtovanje (sinhronizacija, centralni strežniki), aplikacijo
-algoritmov umetne inteligence (za raèunalniško vodene like). Naroènik zahteva, da v vseh fazah
-razvoja igro testirate interno (zaposleni), pred izidom pa izvedete še neodvisno, zunanje
-testiranje (prostovoljci).
-
------------------------------------
-
 Razvoj nove MMORPG igre za razvijalca predstavlja tako tehnièni kot tudi ustvarjalni izziv.
+Slednje predvsem zaradi kolièine MMORPG-jev ki že obstajajo, saj si ne želimo narediti le
+malo drugaène kopije že obstojeèe igre.
 
-Da bo naša igra igralcem privlaèna in se bo hkrati lahko merila z ostalimi igri podobnega tipa
+Da bo naša igra igralcem privlaèna in se bo hkrati lahko merila z ostalimi igrami podobnega tipa
 na tržišèu, mora imeti dovolj zmogljiv grafièni pogon za vizualno privlaènost in dober fizikalni
 pogon, ki bo dejansko narekoval tempo, obnašanje in omejitve celotne igre. Zelo pomembna je tudi
-celotna igralna izkušnja (gameplay), ki mora biti èimbolj unikatna in zanimiva.
+celotna igralna izkušnja (gameplay), ki mora biti èimbolj unikatna in zanimiva, saj je to 
+nedvomno najpomembnejši del igre.
 
-Kot MMO bo World of PrPr zelo
+Kot MMO bo World of PrPr morala podpirati tako zadovoljivo in nemoteno igralno izkušnjo veliki
+kolièini igralcev hkrati kot obstoj raèunalniško vodenih likov in ostalih objektov v konstantno
+spreminjajoèem-se navideznem svetu.
