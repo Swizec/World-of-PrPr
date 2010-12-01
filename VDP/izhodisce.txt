@@ -11,3 +11,9 @@ nedvomno najpomembnejši del igre.
 Kot MMO bo World of PrPr morala podpirati tako zadovoljivo in nemoteno igralno izkušnjo veliki
 kolièini igralcev hkrati kot obstoj raèunalniško vodenih likov in ostalih objektov v konstantno
 spreminjajoèem-se navideznem svetu.
+
+Igra, ki smo si jo zamislili, bo zadovoljila vse zgoraj naštete pogoje. Grafièni in fizikalni
+pogon igre bosta konkurenèna vsem ostalim najnovejšim igram. Razvili bomo do sedaj še 
+ne-obstojeè sistem popolnoma svobodnega igranja igre v svetu ki ni v nobenem pogledu statièen.
+Hkrati pa bo popolna svoboda igranja rešila problem dobre igralne izkušnje naše igre, saj bo
+le-ta odvisna le od igralcev samih.
