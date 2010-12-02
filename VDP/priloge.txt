@@ -1,0 +1,17 @@
+
+Finančna analiza:
+Predvideni stroški:
+	plače zaposlenih na projektu:	108.000€ (3000€ po osebi, 3 osebe,
+							za 12 mesecov)
+	administrativni stroški:	25.000€
+	potni stroški zaposlenih:	66.235€
+	strežniki:			21.012€ (kos 2101,20€)
+	Trdi diski:			20.210,40€ (kos 252,63€)
+	RAM:				13.786€ (kos 137,86€)
+	Skupaj:				254225,40€
+
+predvideni prihodki (v prvem letu uporabe):
+	Naročnina na igro:		10€/user account (po predvidevanjih 
+					naj bi si v 1 letu uporabe igre 
+					account kreiralo 25.000 uporabnikov,
+					kar znese 250.000€)
