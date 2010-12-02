@@ -1,5 +1,18 @@
-Po dogovoru, ki smo ga sklenili z naročnikom bomo strojno opremo in strežnike zagotovili mi, stacionirani pa bodo v prostorih Hermes Softlaba oz. ComTrade d.o.o. V času nastajanja zabavne aplikacije, bomo za potrebe testiranja aplikacijo poganjali na naših strežnikih. Naročnik predvideva, da bo strežnike
-in ostalo potrebno opremo kupil do zaključka izvedbe projekta. Finančni vložki za nakup opreme so vidni v prilogah.
+Po dogovoru, ki smo ga sklenili z naročnikom bomo strojno opremo in strežnike zagotovili 
+mi,stacionirani pa bodo v prostorih Hermes Softlaba oz. ComTrade d.o.o. V času nastajanja
+zabavne aplikacije, bomo za potrebe testiranja aplikacijo poganjali na naših strežnikih.
+Naročnik predvideva, da bo strežnike in ostalo potrebno opremo kupil do zaključka izvedbe
+projekta. Finančni vložki za nakup opreme so vidni v prilogah.
 
-Po opravljeni analizi stanja na trgu, je med uporabniki in igralci raznih iger veliko zanimanje in povpraševanje po takšni vrsti igre, kjer bi igralci lahko ustvarili svet, zaradi tega predpostavljamo, da bo igra veliki hit in bo željene rezultate igrivosti dosegla v zelo kratkem času.
+Po opravljeni analizi stanja na trgu, je med uporabniki in igralci raznih iger veliko 
+zanimanje in povpraševanje po takšni vrsti igre, kjer bi igralci lahko ustvarili svet, 
+zaradi tega predpostavljamo, da bo igra veliki hit in bo željene rezultate igrivosti 
+dosegla v zelo kratkem času.
 
+Ker se bo igra igrala preko spleta in bo dostopna prav vsem narodom obstaja tveganje, da
+bodo različni narodi počutili osramočene, napadene. V preprečitev tega bo osnovni lik izdelan
+tako, da ne bo preferiral nobene rase, verstva, naroda, ...
+
+Oviro bi znalo predstavljato dejstvo, da bi igra postala prepopularna in naročnik ne bi mogel
+zagotovit ustrezne strojne podpore. Po zagotovilih naročnika bo za pogon igre na voljo dovolj
+strežnikov.
