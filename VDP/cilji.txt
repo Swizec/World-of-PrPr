@@ -1,0 +1,60 @@
+
+Cilj projekta je razviti MMORPG igro, ki v svojem jedru sledi
+filozofiji "by the players, for the players". Razvili bomo namreč
+igralno platformo, ki je popolnoma odprta in jo lahko igralci sami
+pretvorijo v skoraj kakršnokoli igro želijo.
+
+Igra World-of-PrPr bo tako ustvarjala moderno igralno mehaniko z
+naslednjimi ključnimi elementi:
+
+1. Ekosistem
+   V običajnih igrah se živali, drevesa in drugi objekti sveta
+   preprosto generirajo. Če igralec ubije zajca, se čez nekaj minut na
+   istem mestu pojavi nov. To ustvari repetativen in dolgočasen svet,
+   ki je zelo naravnan v tako imenovano "grindanje".
+
+   Mi bomo ustvarili svet, ki se obnaša po principih biološkega
+   ekosistema. Živali imajo svoj življenjski cikel in se rojevajo ter
+   umirajo, če eni živali zmanjka hrane, ker je nek igralec posekal
+   vsa drevesa v gozdu in sprožil verižno reakcijo, bo šla hrano iskat
+   drugam. Posledično lahko na primer trop volkov napade bližnjo vas.
+
+   Na ta način se ustvarijo skoraj neskončne priložnosti za zanimive
+   igralne dogodke, ki bodo unikatni, nepredvidljivi in zatorej
+   zabavni.
+
+2. Ekonomija
+   Podobno kot običajne igre generirajo okolje, tudi skrbijo za
+   osnovno ekonomijo v svetu. Predmeti so v trgovinah vedno na voljo
+   in jih nikoli ne more zmanjkati.
+
+   Podobno kot smo predrugačili pojem igralnega ekosistema, bomo
+   spremenili tudi koncept svetovne ekonomije. V World-of-PrPr bodo
+   igralci morali za ekonomijo skrbeti sami. Če bodo ljudje v mestu
+   hoteli imeti hrano, bo moral drugje v svetu nekdo kmetovati in
+   hrano prodajati trgovcem.
+
+   To na prvi pogled mogoče deluje malce monotono, ampak če igralcem
+   pustimo popolnoma proste roke, se vse skupaj izravna in postane
+   zabavno. Npr: nobenemu igralcu se ne ljubi pridelovati hrane, zato
+   ljudje stradajo in so za hrano pripravljeni odšteti več denarja,
+   kar naenkrat se pridelava hrane izredno splača in igralci jo bodo
+   začeli pridelovati, ker bodo potrebovali zlato, da si kupijo druge
+   stvari, ki jih želijo imeti.
+
+3. Build sistem
+   Ker želimo igralcem ponuditi popolnoma odprto igralno platformo, ne
+   moremo vnaprej predvideti kakšne vse predmete bodo potrebovali.  V
+   ta namen bomo ustvarili napreden sistem za izdelavo predmetov.
+   Načeloma bo možno zgraditi skorajda karkoli, kar lahko zgradimo v
+   resničnem svetu. 
+
+   Igralci bodo lahko v skladu z osnovnimi zakoni fizike sestavljali
+   vse predmete, ki so v njihovi lasti, in tako gradili nove
+   predmete z določenimi funkcionalnostmi, ki jih spet določajo
+   osnovni zakoni fizike.
+
+   Potem bodo ustvarjene predmete seveda lahko prodajali drugim
+   igralcem in tako se bo vzpostavil sistem kjer bodo ljudje lahko na
+   primer ustvarjali ključavnice za vrata in jih prodajali drugim
+   igralcem, ki jih bodo potrebovali pri izgradnji svojih hiš.
