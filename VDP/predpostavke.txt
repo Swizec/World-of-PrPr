@@ -1,3 +1,5 @@
-Po dogovoru, ki smo ga sklenili z naročnikom bomo strojno opremo in strežnike zagotovili mi, stacionirani pa bodo v prostorih Hermes Softlaba oz. ComTrade d.o.o. 
-Naročnik zagotovi ustrezne prostore in varnovanje strojne opreme in strežnikov. V času nastajanja zabavne aplikacije, bomo za potrebe testiranja aplikacijo poganjali na naših strežnikih. 
-Ob koncu izvedbe projekta nam bo naročnik omogočil nemoten dostop do njihove strojne in strežniške opreme za potrebe namestitve in zagon igre.
+Po dogovoru, ki smo ga sklenili z naročnikom bomo strojno opremo in strežnike zagotovili mi, stacionirani pa bodo v prostorih Hermes Softlaba oz. ComTrade d.o.o. V času nastajanja zabavne aplikacije, bomo za potrebe testiranja aplikacijo poganjali na naših strežnikih. Naročnik predvideva, da bo strežnike
+in ostalo potrebno opremo kupil do zaključka izvedbe projekta. Finančni vložki za nakup opreme so vidni v prilogah.
+
+Po opravljeni analizi stanja na trgu, je med uporabniki in igralci raznih iger veliko zanimanje in povpraševanje po takšni vrsti igre, kjer bi igralci lahko ustvarili svet, zaradi tega predpostavljamo, da bo igra veliki hit in bo željene rezultate igrivosti dosegla v zelo kratkem času.
+
