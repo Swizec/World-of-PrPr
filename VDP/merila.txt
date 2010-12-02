@@ -1,9 +1,21 @@
-KPI-ji, ki jih bomo merili, za ocenjevanje uspešnosti projekta:
-- doseganje predlagane funkcionalnosti
-- število hroščev odkritih post facto
-- porabljen čas implementacije
-- zadovoljivost tehnike igranja (gameplay)
-- uspešnost AI igralcev
+
+Pri projektu World-of-PrPr se merila uspešnosti delijo na tri osnovna
+področja: tehnologijo, zabavo in časovne omejitve.
+
+Tako bomo pri razvoju tehnologije opazovali predvsem naslednje
+parametre:
+- uspešnost AI pri spopadanju z ekosistemom
+- število post facto odkritih hroščev
 - realističnost grafičnega in fizikalnega pogona
 - skalabilnost sistema
-- fleksibilnost simulacije ekosistema
+
+Na strani zabave igralcev:
+- fleksibilnost/realnost ekosistema
+- zadovoljivost tehnike igranja, predvsem koliko časa je igralec
+zatopljen v igro
+- fleksibilnost kreacije objektov
+
+Na strani časovnih omejitev projekta pa bomo merili predvsem:
+- porabljen čas implementacije
+- čas porabljen za odpravljanje hroščev
+- čas za doseganje primerne skalabilnosti
