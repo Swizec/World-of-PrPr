@@ -58,3 +58,49 @@ naslednjimi ključnimi elementi:
    igralcem in tako se bo vzpostavil sistem kjer bodo ljudje lahko na
    primer ustvarjali ključavnice za vrata in jih prodajali drugim
    igralcem, ki jih bodo potrebovali pri izgradnji svojih hiš.
+
+Zaradi visokih pričakovanj modernih igralcev mora World-of-PrPr biti
+zadovoljiv tudi na tehničnem področju, kot so vizualni učinki,
+realistična fizika in podobno.
+
+Za tehnično plat igralne izkušnje bomo poskrbeli na naslednje načine:
+
+1. Platforme
+   V modernem svetu želijo uporabniki igrati na veliko različnih
+   platformah od računalnikov, do mobilnih naprav in igralnih
+   konzol. Ravno zaradi tega bomo celotno arhitekturo sistema
+   zastavili, tako da se bodo vse kompleksne operacije izvajale na
+   strežniku, igralci pa bodo na svoji napravi imeli samo preprost
+   tanek odjemalec, ki ne bo vseboval drugega kot grafični pogon in
+   način za komunikacijo s strežnikom.
+
+   Podprli bomo predvsem: PC, Mac, Xbox360, PS3, iOS in Android.
+
+2. Grafični pogon
+   Ker je razvoj modernega grafičnega pogona izredno težavno opravilo,
+   smo, zaradi sposobnosti prikaza skora fotorealističnih okolij,
+   izbrali CryEngine, ki ga uporablja popularna igra Crysis.
+
+   Ta pogon je primerno svojim sposobnostim precej zahteven do
+   platforme na kateri ga poganjamo, zato bomo za mobilne naprave
+   grafiko poganjali na lastnih strežnikih in kompresirane slike
+   pošiljali do uporabnika.
+
+3. Fizikalni pogon
+   Za fizikalni pogon bomo uporabili Lagoa Multiphysics 1.0, ki ga
+   razvija Thiago Costa in je trenutno najbolj realističen pogon za
+   fizikalne simulacije, ki lahko učinkovito simulira celo tekočine.
+   http://vimeo.com/13457383
+
+   Ker bomo fizikalne simulacije poganjali na močnih strežnikih ne
+   bodo predstavljale težav za naše uporabnike.
+
+4. Skalabilnost
+   Seveda pa si kljub naprednim sposobnostim fizikalnega in grafičnega
+   pogona želimo, da bo igra dostopna velikemu številu igralcev
+   hkrati.
+
+   Skalabilnost bomo zagotavljali z optimizacijo različnih algoritmov
+   in uporabo primernega števila strežnikov, da bo v vidnem polju
+   igralca tudi po nekaj sto drugih igralcev in igralec ne bo izkusil
+   vidne upočasnitve delovanja.
