@@ -1,22 +1,30 @@
 MMORPG-ji so dandanes zelo splošno razširjen in popularen tip iger, vseeno pa imajo nekaj slabosti. 
 Glavni problem je omejenost v vseh današnjih igrah. Igralec lahko počne, kar si je ustvarjalec igre 
-zamislil, ne pa tega kar se igralcu v tistem trenutku zdi najbolj pomembno oziroma zanimivo. Večina 
-MMO-jev za normalno igranje zahteva monotone ponavljajoče aktivnosti igralcev, kar je odbijajoč 
-faktor za mnogo ljudi. MMO-ji se čedalje bolj prilagajajo ciljni skupini splošnih oz. občasnih 
-igralcev, ob tem pa na žalost pozabljajo posebej nagrajevati igralce ki igri namenijo veliko več 
-časa in energije kot povprečen igralec. 
+zamislil, ne pa tega kar se igralcu v tistem trenutku zdi najbolj pomembno oziroma zanimivo. MMO 
+igre ki po definiciji nimajo zaključka, ga dandanes vse imajo, zaradi prej omenjenih omejitev. Že 
+sam obstoj konceptov kot so najvišji nivo in najboljša oprema oz. predmeti povozijo celotno idejo 
+MMORPG-jev. Večina MMO-jev za normalno igranje zahteva monotone ponavljajoče aktivnosti igralcev, 
+kar je odbijajoč faktor za mnogo ljudi. MMO-ji se čedalje bolj prilagajajo ciljni skupini splošnih 
+oz. občasnih igralcev, ob tem pa na žalost pozabljajo posebej nagrajevati igralce ki igri namenijo 
+veliko več časa in energije kot povprečen igralec. 
 
 Če v enem stavku povzamemo opis današnjega MMOja: neprestano počni ene in iste stvari dokler ne 
-postanejo popolnoma monotone, na koncu pa bojo skoraj vsi igralci enaki kot ti. To si želimo z 
-World of PrPr spremeniti.
+postanejo popolnoma monotone, na koncu pa bojo skoraj vsi igralci bolj ali manj enaki in podobno 
+nagrajeni kot ti. To si želimo z World of PrPr spremeniti.
 
 Da bo naša igra igralcem privlačna in se bo hkrati lahko merila z ostalimi igrami podobnega tipa
 na tržišču, mora imeti dovolj zmogljiv grafični pogon za vizualno privlačnost in dober fizikalni
-pogon, ki bo dejansko narekoval tempo, obnašanje in omejitve celotne igre. Zelo pomembna je tudi
-celotna igralna izkušnja (gameplay), ki mora biti čimbolj unikatna in zanimiva, saj je to 
-nedvomno najpomembnejši del igre.
+pogon, ki bo dejansko narekoval tempo, obnašanje in omejitve celotne igre. 
 
-Kot MMO bo World of PrPr morala podpirati tako zadovoljivo in nemoteno igralno izkušnjo veliki
+Kot MMO naj igra ne bi imela zaključka, zato ji ga tudi ne bomo naredili. Noben predmet in noben 
+dosežek v igri ne bo "najboljši". Igralec z željo, sposobnostjo in časom bo vedno lahko dosegel 
+oz. ustvaril nekaj boljšega in unikatnega.
+
+
+
+
+
+World of PrPr bo moral podpirati tako zadovoljivo in nemoteno igralno izkušnjo veliki
 količini igralcev hkrati kot obstoj računalniško vodenih likov in ostalih objektov v konstantno
 spreminjajočem-se navideznem svetu.
 
