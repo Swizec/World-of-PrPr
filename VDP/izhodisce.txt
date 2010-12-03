@@ -1,19 +1,19 @@
-Razvoj nove MMORPG igre za razvijalca predstavlja tako tehnièni kot tudi ustvarjalni izziv.
-Slednje predvsem zaradi kolièine MMORPG-jev ki e obstajajo, saj si ne elimo narediti le
-malo drugaène kopije e obstojeèe igre.
+Razvoj nove MMORPG igre za razvijalca predstavlja tako tehniÄni kot tudi ustvarjalni izziv.
+Slednje predvsem zaradi koliÄine MMORPG-jev ki Å¾e obstajajo, saj si ne Å¾elimo narediti le
+malo drugaÄne kopije Å¾e obstojeÄe igre.
 
-Da bo naša igra igralcem privlaèna in se bo hkrati lahko merila z ostalimi igrami podobnega tipa
-na trišèu, mora imeti dovolj zmogljiv grafièni pogon za vizualno privlaènost in dober fizikalni
-pogon, ki bo dejansko narekoval tempo, obnašanje in omejitve celotne igre. Zelo pomembna je tudi
-celotna igralna izkušnja (gameplay), ki mora biti èimbolj unikatna in zanimiva, saj je to 
-nedvomno najpomembnejši del igre.
+Da bo naÅ¡a igra igralcem privlaÄna in se bo hkrati lahko merila z ostalimi igrami podobnega tipa
+na trÅ¾iÅ¡Äu, mora imeti dovolj zmogljiv grafiÄni pogon za vizualno privlaÄnost in dober fizikalni
+pogon, ki bo dejansko narekoval tempo, obnaÅ¡anje in omejitve celotne igre. Zelo pomembna je tudi
+celotna igralna izkuÅ¡nja (gameplay), ki mora biti Äimbolj unikatna in zanimiva, saj je to 
+nedvomno najpomembnejÅ¡i del igre.
 
-Kot MMO bo World of PrPr morala podpirati tako zadovoljivo in nemoteno igralno izkušnjo veliki
-kolièini igralcev hkrati kot obstoj raèunalniško vodenih likov in ostalih objektov v konstantno
-spreminjajoèem-se navideznem svetu.
+Kot MMO bo World of PrPr morala podpirati tako zadovoljivo in nemoteno igralno izkuÅ¡njo veliki
+koliÄini igralcev hkrati kot obstoj raÄunalniÅ¡ko vodenih likov in ostalih objektov v konstantno
+spreminjajoÄem-se navideznem svetu.
 
-Igra, ki smo si jo zamislili, bo zadovoljila vse zgoraj naštete pogoje. Grafièni in fizikalni
-pogon igre bosta konkurenèna vsem ostalim najnovejšim igram. Razvili bomo do sedaj še 
-ne-obstojeè sistem popolnoma svobodnega igranja igre v svetu ki ni v nobenem pogledu statièen.
-Hkrati pa bo popolna svoboda igranja rešila problem dobre igralne izkušnje naše igre, saj bo
+Igra, ki smo si jo zamislili, bo zadovoljila vse zgoraj naÅ¡tete pogoje. GrafiÄni in fizikalni
+pogon igre bosta konkurenÄna vsem ostalim najnovejÅ¡im igram. Razvili bomo do sedaj Å¾e 
+ne-obstojeÄ sistem popolnoma svobodnega igranja igre v svetu ki ni v nobenem pogledu statiÄen.
+Hkrati pa bo popolna svoboda igranja reÅ¡ila problem dobre igralne izkuÅ¡nje naÅ¡e igre, saj bo
 le-ta odvisna le od igralcev samih.
