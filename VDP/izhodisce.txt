@@ -10,7 +10,9 @@ veliko več časa in energije kot povprečen igralec.
 
 Če v enem stavku povzamemo opis današnjega MMOja: neprestano počni ene in iste stvari, dokler ne 
 postanejo popolnoma monotone, na koncu pa bojo skoraj vsi igralci bolj ali manj enaki in podobno 
-nagrajeni kot ti. To si želimo z World of PrPr spremeniti.
+nagrajeni kot ti. 
+
+To si želimo z World of PrPr spremeniti.
 
 Da bo naša igra igralcem privlačna in se bo hkrati lahko merila z ostalimi igrami podobnega tipa
 na tržišču, mora imeti dovolj zmogljiv grafični pogon za vizualno privlačnost in dober fizikalni
