@@ -13,4 +13,5 @@ Ker se bo igra igrala preko spleta in bo dostopna prav vsem narodom obstaja tveg
 bodo različni narodi počutili osramočene, napadene. V preprečitev tega bo osnovni lik izdelan
 tako, da ne bo preferiral nobene rase, verstva, naroda, ...
 
-Tveganje bi znalo predstavljato dejstvo, da bi igra postala prepopularna in naročnik ne bi mogel zagotovit pravočasne ustrezne strojne podpore in bi igra zaradi tega postala manj zanimiva. Po zagotovilih naročnika bo za pogon igre na voljo dovolj strežnikov.
+Oviro zna predstavljat popularnost igre. Bojimo se, da bi popularnost igre naraščala prehitro
+in da zaradi tega, naročnik ne bi mogel pravočasno nadgradit svoje strojne opreme.
