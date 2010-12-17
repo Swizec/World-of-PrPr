@@ -1,5 +1,4 @@
-
-# Navodila
+# Navodile
 
 Za lazje sodelovanje:
 
